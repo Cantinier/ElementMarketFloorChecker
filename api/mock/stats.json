@@ -1,0 +1,109 @@
+{
+  "code": 0,
+  "msg": "string",
+  "data": {
+    "ownerCount": 34380,
+    "assetCount": 98232,
+    "nftCount": 918232,
+    "totalVolume": 339788.62,
+    "usdTotalVolume": 692702859.8484836,
+    "floorPrice": 3.16,
+    "usdFloorPrice": 6442.0669448,
+    "listingCount": 3397,
+    "collectionBestOffer": {
+      "bestOfferPriceSource": 8.250901,
+      "coin": {
+        "id": "1633",
+        "name": "ETH",
+        "address": "0x0000000000000000000000000000000000000000",
+        "icon": "https://storage.nfte.ai/icon/currency/eth.svg",
+        "symbol": "eth",
+        "decimal": 18,
+        "accuracy": 4,
+        "chain": "eth",
+        "chainId": "0x1"
+      }
+    },
+    "collectionFloorPrice": {
+      "floorPriceSource": 8.250901,
+      "coin": {
+        "id": "1633",
+        "name": "ETH",
+        "address": "0x0000000000000000000000000000000000000000",
+        "icon": "https://storage.nfte.ai/icon/currency/eth.svg",
+        "symbol": "eth",
+        "decimal": 18,
+        "accuracy": 4,
+        "chain": "eth",
+        "chainId": "0x1"
+      }
+    },
+    "statsToken": {
+      "id": "1633",
+      "name": "ETH",
+      "address": "0x0000000000000000000000000000000000000000",
+      "icon": "https://storage.nfte.ai/icon/currency/eth.svg",
+      "symbol": "eth",
+      "decimal": 18,
+      "accuracy": 4,
+      "chain": "eth",
+      "chainId": "0x1"
+    },
+    "stats15m": {
+      "avgPrice": 8.250901,
+      "avgPriceRatio": -0.16057916302408237,
+      "usdAvgPrice": 16820.524239530783,
+      "floorPrice": 3.16,
+      "usdFloorPrice": 6442.0669448,
+      "floorPriceRatio": 0.9561018399739919,
+      "volume": 29788.62,
+      "volumeRatio": 29788.62,
+      "usdVolume": 692759.84846,
+      "saleCount": 21,
+      "uniqueBuyer": 12,
+      "listingsCount": 397
+    },
+    "stats1H": {
+      "avgPrice": 8.250901,
+      "avgPriceRatio": -0.16057916302408237,
+      "usdAvgPrice": 16820.524239530783,
+      "floorPrice": 3.16,
+      "usdFloorPrice": 6442.0669448,
+      "floorPriceRatio": 0.9561018399739919,
+      "volume": 29788.62,
+      "volumeRatio": 29788.62,
+      "usdVolume": 692759.84846,
+      "saleCount": 21,
+      "uniqueBuyer": 12,
+      "listingsCount": 397
+    },
+    "stats1D": {
+      "avgPrice": 8.250901,
+      "avgPriceRatio": -0.16057916302408237,
+      "usdAvgPrice": 16820.524239530783,
+      "floorPrice": 3.16,
+      "usdFloorPrice": 6442.0669448,
+      "floorPriceRatio": 0.9561018399739919,
+      "volume": 29788.62,
+      "volumeRatio": 29788.62,
+      "usdVolume": 692759.84846,
+      "saleCount": 21,
+      "uniqueBuyer": 12,
+      "listingsCount": 397
+    },
+    "stats7D": {
+      "avgPrice": 8.250901,
+      "avgPriceRatio": -0.16057916302408237,
+      "usdAvgPrice": 16820.524239530783,
+      "floorPrice": 3.16,
+      "usdFloorPrice": 6442.0669448,
+      "floorPriceRatio": 0.9561018399739919,
+      "volume": 29788.62,
+      "volumeRatio": 29788.62,
+      "usdVolume": 692759.84846,
+      "saleCount": 21,
+      "uniqueBuyer": 12,
+      "listingsCount": 397
+    }
+  }
+}
